@@ -1,0 +1,268 @@
+
+Started POST /canciones for :: ::ffff:127.0.0.1 at Fri Jun 07 2024 20:43:34 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 201 message:  Time response: 12 ms Request ID: [4405bd4e-c2f3-49e3-ad25-c93308894761]
+
+Started GET / for :: ::1 at Fri Jun 07 2024 20:46:44 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 6 ms Request ID: [63676055-8380-4047-a808-550f425574ae]
+
+Started GET /canciones for :: ::1 at Fri Jun 07 2024 20:46:44 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 5 ms Request ID: [622ea052-f81a-41c4-b456-d4c9b3024bb0]
+
+Started POST /canciones for :: ::1 at Fri Jun 07 2024 20:47:07 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 201 message:  Time response: 3 ms Request ID: [7a505ac0-2fbb-4d43-9375-a00078be3eac]
+
+Started GET /canciones for :: ::1 at Fri Jun 07 2024 20:47:07 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 2 ms Request ID: [a8d96494-88c0-45dd-a3b0-7724ad3729a0]
+
+Started POST /canciones for :: ::1 at Fri Jun 07 2024 20:47:09 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 201 message:  Time response: 3 ms Request ID: [376a8c9a-b6f4-4add-8796-862d00ca11ab]
+
+Started GET /canciones for :: ::1 at Fri Jun 07 2024 20:47:09 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [4c2fa02b-3e7d-4b9a-84e0-29f7899ba199]
+
+Started PUT /canciones/undefined for :: ::1 at Fri Jun 07 2024 20:47:15 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 2 ms Request ID: [75a46e65-ee51-486b-8309-b22bf28acc34]
+
+Started GET /canciones for :: ::1 at Fri Jun 07 2024 20:47:15 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 1 ms Request ID: [fc0689be-610f-4902-b3e6-42b06ce85243]
+
+Started POST /canciones for :: ::1 at Fri Jun 07 2024 20:47:16 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 201 message:  Time response: 3 ms Request ID: [a9c81ba6-a937-4ed4-ad6c-ae35d56debbe]
+
+Started GET /canciones for :: ::1 at Fri Jun 07 2024 20:47:16 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 2 ms Request ID: [122e219c-5a4b-4f5d-b32d-43b5ec577f93]
+
+Started GET / for :: ::1 at Fri Jun 07 2024 20:48:42 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 7 ms Request ID: [897c8817-acde-4a18-98f5-097447c247aa]
+
+Started GET /canciones for :: ::1 at Fri Jun 07 2024 20:48:42 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [1b2baffc-6401-4e88-bb50-118d9199ae57]
+
+Started POST /canciones for :: ::1 at Fri Jun 07 2024 20:48:52 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 201 message:  Time response: 3 ms Request ID: [19e88adf-0d5b-4acd-9446-b6259d10face]
+
+Started GET /canciones for :: ::1 at Fri Jun 07 2024 20:48:52 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 2 ms Request ID: [ea98f617-bda2-4c9f-9105-7f777aa7db3b]
+
+Started POST /canciones for :: ::1 at Fri Jun 07 2024 20:50:10 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"id":6539,"titulo":"juan","artista":"juanes","tono":"hola"}
+Completed: 201 message:  Time response: 6 ms Request ID: [5ea55ff2-6266-43fb-a3bf-b97b2e34cc53]
+
+Started GET /canciones for :: ::1 at Fri Jun 07 2024 20:50:10 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 2 ms Request ID: [d701ae62-7de9-4d64-856d-15d6da8a8400]
+
+Started POST /canciones for :: ::ffff:127.0.0.1 at Fri Jun 07 2024 20:50:15 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 7 ms Request ID: [aff3233d-16ef-43ea-aff2-27f301748c4b]
+
+Started GET / for :: ::1 at Fri Jun 07 2024 21:44:22 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 7 ms Request ID: [87d97e0a-2c80-4063-bc0d-c4bfc4aa8407]
+
+Started GET /canciones for :: ::1 at Fri Jun 07 2024 21:44:22 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 4 ms Request ID: [a72ff6c5-25e7-4588-8d5c-61cdf744babc]
+
+Started POST /canciones for :: ::1 at Fri Jun 07 2024 21:44:26 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"id":5996,"titulo":"A dios le pido","artista":"Juanes","tono":"Em"}
+Completed: 201 message:  Time response: 3 ms Request ID: [f2470123-5063-4099-b30d-20e9326132e1]
+
+Started GET /canciones for :: ::1 at Fri Jun 07 2024 21:44:26 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 2 ms Request ID: [263b8be1-657a-40ef-b2a7-1317d49e4e17]
+
+Started GET / for :: ::1 at Fri Jun 07 2024 21:47:32 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 28 ms Request ID: [6edd909c-dbf7-4821-9ee6-c51387408524]
+
+Started GET /canciones for :: ::1 at Fri Jun 07 2024 21:47:32 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 9 ms Request ID: [9617be80-0097-4f14-b322-0151f4b01384]
+
+Started POST /canciones for :: ::1 at Fri Jun 07 2024 21:47:34 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"id":9311,"titulo":"A dios le pido","artista":"Juanes","tono":"Em"}
+Completed: 201 message:  Time response: 2 ms Request ID: [e0d373e2-8f1a-484f-a845-52d1ba5fd44e]
+
+Started GET /canciones for :: ::1 at Fri Jun 07 2024 21:47:34 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 2 ms Request ID: [cad2b938-4b0b-4533-9eb2-efefd8056129]
+
+Started POST /canciones for :: ::1 at Fri Jun 07 2024 21:54:57 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"id":3862,"titulo":"A dios le pido","artista":"Juanes","tono":"Em"}
+Completed: 201 message:  Time response: 6 ms Request ID: [019ce2c1-cc88-4a97-9022-7642a161729b]
+
+Started GET /canciones for :: ::1 at Fri Jun 07 2024 21:54:57 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 2 ms Request ID: [28bbb62a-dc59-425f-adeb-3bd49a38813a]
+
+Started GET / for :: ::1 at Fri Jun 07 2024 22:03:34 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 7 ms Request ID: [6f8c2b95-25d3-4766-a42a-a5c5b21461c5]
+
+Started GET /canciones for :: ::1 at Fri Jun 07 2024 22:03:34 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 7 ms Request ID: [40984793-fb27-4751-bb03-76d1b70aa8c9]
+
+Started POST /canciones for :: ::1 at Fri Jun 07 2024 22:03:38 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"id":3541,"titulo":"A dios le pido","artista":"Juanes","tono":"Em"}
+Completed: 201 message:  Time response: 4 ms Request ID: [7c186d4f-281f-4e94-9bca-f8ed4451aa73]
+
+Started GET /canciones for :: ::1 at Fri Jun 07 2024 22:03:38 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 2 ms Request ID: [ec2bcfe5-509a-4d48-921a-ed88d3de23f9]
+
+Started GET / for :: ::1 at Fri Jun 07 2024 22:03:56 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3 ms Request ID: [d80dd180-e7ae-4868-9c95-8ed391716a9f]
+
+Started GET /canciones for :: ::1 at Fri Jun 07 2024 22:03:56 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 2 ms Request ID: [d7785357-1b32-4fcc-8644-78772690cb8e]
+
+Started GET /canciones for :: ::ffff:127.0.0.1 at Fri Jun 07 2024 22:20:50 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 6 ms Request ID: [8887c5ce-ff4e-4207-aee0-f6db34d49004]
+
+Started GET /canciones for :: ::ffff:127.0.0.1 at Fri Jun 07 2024 22:27:29 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 1 ms Request ID: [808d409c-ef57-4cd8-9eac-73b85490c008]
+
+Started DELETE /canciones for :: ::ffff:127.0.0.1 at Fri Jun 07 2024 22:27:34 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 3 ms Request ID: [0da4d030-8c3e-43e1-a455-88778307610a]
+
+Started PUT /canciones for :: ::ffff:127.0.0.1 at Fri Jun 07 2024 22:27:40 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 2 ms Request ID: [211b5453-725d-4a57-9065-c01969d137ba]
+
+Started POST /canciones for :: ::ffff:127.0.0.1 at Fri Jun 07 2024 22:27:50 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 3 ms Request ID: [d7f8ce32-322b-4a23-8a78-0f2b75f536a1]
+
+Started GET /canciones for :: ::ffff:127.0.0.1 at Fri Jun 07 2024 22:27:53 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 2 ms Request ID: [335b86f3-ea7b-4234-85a0-44c4dfacb935]
+
+Started GET / for :: ::1 at Sat Jun 08 2024 09:54:01 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 9 ms Request ID: [71e540d1-81f9-4386-8ad1-dc6735436ec4]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 09:54:01 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 4 ms Request ID: [b05422f2-3db4-4e3f-befa-1ce1b2302bd5]
+
+Started GET /favicon.ico for :: ::1 at Sat Jun 08 2024 09:54:01 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 4 ms Request ID: [50218011-60f7-436e-962a-e1472c113dad]
+
+Started POST /canciones for :: ::1 at Sat Jun 08 2024 09:54:17 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"id":2351,"titulo":"a dios le pido","artista":"juanes","tono":"em"}
+Completed: 201 message:  Time response: 2 ms Request ID: [01b0e7e3-da01-4d10-b723-c244e4316437]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 09:54:17 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 2 ms Request ID: [c9308667-7e11-4ce4-822f-f010b524d368]
+
+Started DELETE /canciones/undefined for :: ::1 at Sat Jun 08 2024 09:54:20 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 7 ms Request ID: [2e595993-8784-4bd7-84f1-56882c46ee0a]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 09:54:22 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 2 ms Request ID: [41efcac8-6df4-45d7-81ad-44c22bacd0d2]
+
+Started DELETE /canciones/undefined for :: ::1 at Sat Jun 08 2024 09:54:37 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 2 ms Request ID: [87c83f8a-67e9-462c-8380-38d893ed3a55]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 09:54:39 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 2 ms Request ID: [b6336b27-61b8-4ab1-a102-a10eac099cc6]
+
+Started POST /canciones for :: ::1 at Sat Jun 08 2024 09:54:50 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"id":326,"titulo":"a dios le pido","artista":"juanes ","tono":"em"}
+Completed: 201 message:  Time response: 2 ms Request ID: [8820be49-26a6-4f70-a806-2269e4f4811f]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 09:54:50 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 2 ms Request ID: [57479601-7574-4bde-a7a2-b42e148d0ce6]
+
+Started PUT /canciones/326 for :: ::1 at Sat Jun 08 2024 09:55:00 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"id":"326","titulo":"a dios le pido","artista":"belinda","tono":"em"}
+Completed: 200 message:  Time response: 2 ms Request ID: [84d083b4-5c08-41d3-897c-d3a45c767d65]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 09:55:00 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 2 ms Request ID: [a695e851-ef20-4fb6-af46-255dde285ff1]
+
+Started GET / for :: ::1 at Sat Jun 08 2024 10:01:14 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 8 ms Request ID: [6ab39dfd-6ce1-4d62-8900-288735f915b3]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 10:01:14 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 4 ms Request ID: [c5f3df96-1385-408c-9f0b-43701301d569]
+
+Started POST /canciones for :: ::1 at Sat Jun 08 2024 10:01:31 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"id":9856,"titulo":"a dios le pido","artista":"juanes","tono":"em"}
+Completed: 201 message:  Time response: 2 ms Request ID: [ec8bf780-c7c2-409d-ad64-1bc839f4359b]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 10:01:31 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 2 ms Request ID: [c93b154e-dcf7-41b6-8728-8286b1492400]
+
+Started DELETE /canciones/9856 for :: ::1 at Sat Jun 08 2024 10:01:32 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [bfdcace7-beb4-418d-85d0-5d927350c6ce]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 10:01:34 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 2 ms Request ID: [074f27b5-6b7b-48f0-b0e9-5d46cc2b7ede]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 10:01:56 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 2 ms Request ID: [f584b2c9-3367-433e-8725-f4167941d430]
+
+Started GET / for :: ::1 at Sat Jun 08 2024 16:24:46 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 125 ms Request ID: [2eae5615-5a93-458f-9bd3-cb60dd9d23e4]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 16:24:47 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 13 ms Request ID: [24269cbe-1d39-479a-adbb-db52ddc5d07d]
+
+Started GET /favicon.ico for :: ::1 at Sat Jun 08 2024 16:24:47 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 29 ms Request ID: [6e80be85-f5fd-435d-b41e-dd3e39bf09de]
+
+Started POST /canciones for :: ::1 at Sat Jun 08 2024 16:24:59 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"id":2430,"titulo":"a dios le pido","artista":"juanes ","tono":"em"}
+Completed: 201 message:  Time response: 11 ms Request ID: [af23f502-f21d-4c69-8885-35ca997d9402]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 16:24:59 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 34 ms Request ID: [28d07a80-6a25-4be8-91a0-742ddca7e32d]
+
+Started DELETE /canciones/2430 for :: ::1 at Sat Jun 08 2024 16:26:10 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 12 ms Request ID: [c656e5fe-4c18-4e0c-80a2-da529c867b36]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 16:26:13 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 44 ms Request ID: [ce3cfcf7-1732-40b9-b0be-014ce818d0cb]

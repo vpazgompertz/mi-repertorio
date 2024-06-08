@@ -1,0 +1,48 @@
+
+Started GET / for :: ::1 at Fri Jun 07 2024 18:53:33 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 9 ms Request ID: [c2655f9b-2c1f-4d81-b1c8-aebf6a2a6c89]
+
+Started GET / for :: ::1 at Fri Jun 07 2024 18:58:53 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 6 ms Request ID: [e5ffcfa1-3ba7-48cc-b188-08ed5484c2fe]
+
+Started GET /favicon.ico for :: ::1 at Fri Jun 07 2024 18:58:53 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 3 ms Request ID: [42485799-6cae-4e96-844b-1be0d4d635b7]
+
+Started GET / for :: ::1 at Fri Jun 07 2024 19:01:58 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 8 ms Request ID: [34337669-9949-4cdd-ae02-59b609ea7337]
+
+Started GET /canciones for :: ::1 at Fri Jun 07 2024 19:01:58 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 3 ms Request ID: [cde37e1b-64ce-4042-aaa6-2e829152a1ea]
+
+Started POST /canciones for :: ::1 at Fri Jun 07 2024 19:35:53 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 3 ms Request ID: [d6fa9b05-611c-4bdd-9b36-4ae5eb5f6b64]
+
+Started GET /canciones for :: ::1 at Fri Jun 07 2024 19:55:04 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 6 ms Request ID: [a1d1fa30-0187-4ad3-bbf7-0b318e0e8201]
+
+Started GET / for :: ::ffff:127.0.0.1 at Fri Jun 07 2024 19:56:50 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 5 ms Request ID: [dd2be844-45df-48e1-a224-a8ec65bb1136]
+
+Started POST /canciones for :: ::ffff:127.0.0.1 at Fri Jun 07 2024 19:57:02 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 4 ms Request ID: [c9953239-9b1a-474f-bdc6-0e7d0a494268]
+
+Started POST /canciones for :: ::ffff:127.0.0.1 at Fri Jun 07 2024 19:59:20 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 5 ms Request ID: [6d92cbdc-fd4f-4392-a84b-0983276ecaee]
+
+Started PUT /canciones for :: ::ffff:127.0.0.1 at Fri Jun 07 2024 19:59:22 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 2 ms Request ID: [782c2b0c-efc5-4a9f-8304-e467bc63720b]
+
+Started GET /canciones for :: ::ffff:127.0.0.1 at Fri Jun 07 2024 19:59:33 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 2 ms Request ID: [a62ee8bd-efe6-4301-8d73-43c5aad41de2]
